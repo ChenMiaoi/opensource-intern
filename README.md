@@ -6,7 +6,8 @@
 
 | 任务名称 | 预计开发语言 | 预计时长 |
 | --------- | --------- | --------- |
-| [基于 PoW 的镜像站防盗刷流量机制](./openatom_club_hustmirrors_waf.md) | TypeScript、Golang | 2 个月 |
 | [hustsync.rs - Rust 重写镜像同步工具](./openatom_club_hustsync.md) | Rust | 6 个月 |
-| [为 Syzkaller 添加 loongarch64 架构支持](./openatom_club_syzkaller_for_loongarch.md) | Go、C/C++、汇编 | 8 周 / 120 小时 / 2 个月 |
+| [基于 PoW 的镜像站防盗刷流量机制](./openatom_club_hustmirrors_waf.md) | TypeScript、Golang | 2 个月 |
+| [为 Syzkaller 添加 loongarch64 架构支持](./openatom_club_syzkaller_for_loongarch.md) | Go、C/C++、汇编 | 120 小时 / 8 周 |
 | [基于多级判定策略的漏洞影响范围智能化判定](./openatom_club_vulnerability_downstream_impact.md) | Python、C/C++、Golang | 3 个月 |
+| [面向华科开放原子俱乐部的开源实习管理系统](./openatom_club_ossintern_web.md) | 不限（建议 Python / TS / Go） | 88 小时 / 6 周 |
